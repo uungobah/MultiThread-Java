@@ -1,3 +1,6 @@
+/*
+* cara pertama membuat thread
+* */
 public class RunnableObject implements Runnable {
 
     @Override

@@ -1,4 +1,7 @@
 import java.util.Set;
+/*
+* cara kedua membuat thread
+* */
 
 public class ThreadObject extends Thread {
 

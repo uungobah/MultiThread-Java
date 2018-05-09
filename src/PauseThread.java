@@ -1,3 +1,11 @@
+
+/*
+Sebuah thread dapat diberhentikan sementara.
+Salah satu cara yang dapat digunakan adalah
+dengan menggunakan method sleep() yang dimiliki oleh objek thread.
+Melalui method ini anda dapat memberhentikan sebuah thread selama selang waktu tertentu
+*/
+
 public class PauseThread {
     public static void main(String[] args) throws InterruptedException {
         System.out.println("Saya ditulis");
